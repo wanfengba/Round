@@ -1,5 +1,5 @@
 # Round
-!!!<style>a{color:red;}</style>!!!
+
 潦草截图下（在最下面） 反正就是主打朋友圈类型 有时间会更新 （字有点多 使用者请耐心看完 可能对你的疑问有帮助）
 <a href="https://github.com/wanfengba/links">友链插件下载</a>
 
