@@ -3,6 +3,60 @@
 潦草截图下（在最下面） 反正就是主打朋友圈类型 有时间会更新 （字有点多 使用者请耐心看完 可能对你的疑问有帮助）
 <a href="https://github.com/wanfengba/links">友链插件下载</a>
 
+# 菜单
+<table role="table">
+<thead>
+<tr>
+<th>字段名</th>
+<th>作用</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>name</td>
+<td>名称</td>
+<td>鼠标悬停，显示的名称</td>
+</tr>
+<tr>
+<td>icon</td>
+<td>图标字体</td>
+<td>使用 <a href="https://icons.getbootstrap.com/" rel="nofollow">Bootstrap Icons</a> 图标字体库</td>
+</tr>
+<tr>
+<td>url</td>
+<td>链接</td>
+<td>点击跳转的链接</td>
+</tr>
+<tr>
+<td>newTab</td>
+<td>新窗口打开</td>
+<td>true/false</td>
+</tr>
+</tbody>
+</table>
+
+<pre>[
+  {
+    <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>首页<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"icon"</span>: <span class="pl-s"><span class="pl-pds">"</span>bi bi-house-door-fill<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"url"</span>: <span class="pl-s"><span class="pl-pds">"</span>/<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"newTab"</span>: <span class="pl-c1">false</span>
+  },
+  {
+    <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>友链<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"icon"</span>: <span class="pl-s"><span class="pl-pds">"</span>bi bi-train-freight-front-fill<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"url"</span>: <span class="pl-s"><span class="pl-pds">"</span>/<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"newTab"</span>: <span class="pl-c1">false</span>
+  },
+  {
+    <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>关于<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"icon"</span>: <span class="pl-s"><span class="pl-pds">"</span>bi bi-person<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"url"</span>: <span class="pl-s"><span class="pl-pds">"</span>/<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"newTab"</span>: <span class="pl-c1">false</span>
+  }
+]</pre>
+
 计划：
 1.邮箱收到评论信息（有此文件，但没博客测试，然后就没添加相关设置）
 2.添加文章\书单\相册等单独样式 （有时间的话 会继续折腾）
