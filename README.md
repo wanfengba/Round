@@ -7,6 +7,10 @@
 <li>Typecho 1.1+</li>
 </ul>
 
+# 最新本版
+
+<a href="https://github.com/wanfengba/Round/releases/tag/Round">1.2本版下载</a>
+
 潦草截图下（在最下面） 反正就是主打朋友圈类型 有时间会更新 （字有点多 使用者请耐心看完 可能对你的疑问有帮助）
 <a href="https://github.com/wanfengba/links">友链插件下载</a>
 
@@ -113,10 +117,6 @@
 页面截图
 ![页面](https://user-images.githubusercontent.com/83448377/227761619-62a36807-3aab-4635-939e-dcab58b79ab4.jpg)
 （全部页面都如此 不添加图片则不显示 添加则显示 此功能只有页面才实现）
-
-![image](https://user-images.githubusercontent.com/83448377/227759795-092d8399-f661-4151-8b09-2abd928e1d8d.png)
-
-赞赏码 还是希望这个月是可以有点收入的 （细节：如果发现名字太女生了 请不要怀疑 本人就是女生）
 
 ![微信](https://user-images.githubusercontent.com/83448377/227762143-8c2bd57a-f08c-4526-88f3-f68de62555ea.jpg)
 
